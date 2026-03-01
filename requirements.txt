@@ -1,7 +1,5 @@
-streamlit 
-ollama
-llama-index
-llama-index-llms-ollama
+streamlit
+groq
 pymongo
 pydantic
 pydantic-settings

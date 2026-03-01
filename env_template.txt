@@ -1,4 +1,3 @@
-MONGO_DB_URL = ""
-MONGO_DB_NAME = ""
-OLLAMA_URL = ""
-OLLAMA_MODELS = ""
+MONGO_DB_URL = "mongodb://localhost:27017/"
+MONGO_DB_NAME = "chat_data"
+GROQ_API_KEY = ""
