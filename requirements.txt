@@ -4,3 +4,4 @@ pymongo
 pydantic
 pydantic-settings
 python-dotenv
+llama-index-llms-groq   
